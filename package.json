@@ -1,0 +1,8 @@
+{
+  "name" : "letter-game",
+  "version" : "0.0.1",
+  "description" : "My letter game",
+  "dependencies" : {
+    "mime" : "~1.2.7"
+  }
+}
